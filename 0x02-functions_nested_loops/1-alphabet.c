@@ -3,7 +3,7 @@
 /**
  * print _alphabet
  */
-void print-alphabet(void)
+void print_alphabet(void)
 
 	char la;
 
