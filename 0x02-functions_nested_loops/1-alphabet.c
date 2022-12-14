@@ -4,6 +4,7 @@
  * print _alphabet
  */
 void print_alphabet(void)
+{
 
 	char la;
 
@@ -11,3 +12,4 @@ void print_alphabet(void)
 		_putchar(la);
 
 	_putchar('\n');
+}
