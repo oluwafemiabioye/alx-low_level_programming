@@ -2,7 +2,7 @@
 
 /**
  * alphabet - 26alphabe_english alphabet
- * print _alphabet
+ * print _alphabet - 26alphabe_english alphabet
  */
 void print_alphabet(void)
 {
