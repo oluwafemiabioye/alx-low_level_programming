@@ -1,6 +1,7 @@
 #include "main.h"
 
 /**
+ * alphabet - 26alphabe_english alphabet
  * print _alphabet
  */
 void print_alphabet(void)
@@ -10,6 +11,7 @@ void print_alphabet(void)
 
 	for (la = 'a'; la <= 'z'; la++)
 		_putchar(la);
+
 
 	_putchar('\n');
 }
